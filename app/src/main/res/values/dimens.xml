@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_big">16sp</dimen>
+
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_normal">15dp</dimen>
+
+    <dimen name="corner_radius_normal">15dp</dimen>
+
+    <dimen name="avatar_image_w_normal">100dp</dimen>
+    <dimen name="avatar_image_h_normal">100dp</dimen>
+</resources>

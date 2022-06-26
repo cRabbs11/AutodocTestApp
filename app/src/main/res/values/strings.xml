@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutodocTestApp</string>
+
+    <string name="search">Поиск</string>
+    <string name="about">О программе</string>
+
+    <string name="about_descr">Программа для просмотра репозиториев на github</string>
+
+    <string name="nickname">nickname: </string>
+    <string name="bio">bio: </string>
+    <string name="followers">followers: </string>
+    <string name="following">following: </string>
+    <string name="blog">blog: </string>
+    <string name="twitter">twitter: </string>
+</resources>
