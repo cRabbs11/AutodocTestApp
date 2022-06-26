@@ -7,7 +7,6 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import androidx.lifecycle.lifecycleScope
 import com.bumptech.glide.Glide
 import com.ekochkov.autodoctestapp.R
 import com.ekochkov.autodoctestapp.data.entity.User
@@ -15,10 +14,6 @@ import com.ekochkov.autodoctestapp.databinding.FragmentOwnerBinding
 import com.ekochkov.autodoctestapp.utils.Constants.BUNDLE_KEY_USERNAME
 import com.ekochkov.autodoctestapp.viewModel.UserViewModel
 import com.ekochkov.autodoctestapp.viewModel.factory
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
-import kotlin.coroutines.suspendCoroutine
 
 class UserFragment: Fragment() {
 
